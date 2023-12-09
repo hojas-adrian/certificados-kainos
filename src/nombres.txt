@@ -1,0 +1,6 @@
+// Agrega los nombres de las personas que recibiran los certificados
+// Uno por línea 
+
+Carlos Rodríguez
+María González
+Javier Pérez
