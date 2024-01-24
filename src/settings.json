@@ -1,6 +1,30 @@
 {
   "title": "Certificado a entregar",
-  "autor": "Dr. Jane Goodall",
-  "cargo": "Presidente",
-  "fecha": "a los 32 días del mes abril"
+  "date": {
+    "start": {
+      "day": 1,
+      "month": 2,
+      "year": 2024
+    },
+    "end": {
+      "day": 3,
+      "month": 4,
+      "year": 2024
+    },
+    "delivered": {
+      "day": 5,
+      "month": 6,
+      "year": 2024
+    }
+  },
+  "authors": {
+    "uci": {
+      "name": "Dr. C. Cesar Alberto Collazo",
+      "charge": "PROFESOR del curso"
+    },
+    "kainos":{
+      "name": "Dr. C. Rigoberto David García Mauri",
+      "charge": "Gestor"
+    }
+  }
 }
